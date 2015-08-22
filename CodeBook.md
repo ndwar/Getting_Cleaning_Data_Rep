@@ -3,7 +3,7 @@ Code Book
 
 #Measures: Aggregated Average or Standard Deviation 
 
-##tBodyAcc-mean()-X
+###tBodyAcc-mean()-X
 ##tBodyAcc-mean()-Y
 ##tBodyAcc-mean()-Z
 ##tBodyAcc-std()-X
